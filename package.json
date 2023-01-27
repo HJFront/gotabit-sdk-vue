@@ -1,0 +1,29 @@
+{
+  "name": "gotabit-sdk-vue",
+  "version": "1.0.0",
+  "description": "Vue provider and hooks for Gotabit.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HJFront/gotabit-sdk-vue.git"
+  },
+  "keywords": [],
+  "author": "wudi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HJFront/gotabit-sdk-vue/issues"
+  },
+  "homepage": "https://github.com/HJFront/gotabit-sdk-vue#readme",
+  "dependencies": {
+    "@gotabit/client": "^1.1.23",
+    "@gotabit/wallet-core": "^1.1.23",
+    "vue": "^3.2.45"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.3"
+  }
+}
